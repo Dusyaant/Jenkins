@@ -36,7 +36,7 @@ A comprehensive, hands-on implementation demonstrating the deployment, optimizat
 ### 1. Build Execution Log (Console Output)
 The freestyle automation project executes the target shell script natively on the EC2 runner, displaying our custom automation string and completing with a perfect termination status (`SUCCESS`).
 
-![Freestyle Build Console Output](./01-freestyle-build-console-output.png)
+![Freestyle Build Console Output](./02-freestyle-build-console-output.png)
 
 ### 2. User Administration Matrix
 Verification of user database profiling, showcasing active permission isolation with the master administrator running alongside the newly provisioned developer workspace profile.
